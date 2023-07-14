@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol fill="none" viewBox="0 0 36 36" id="logo" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 4a4 4 0 014-4h24a4 4 0 014 4v4c0 13.255-10.745 24-24 24H4a4 4 0 01-4-4V4z"
+            fill="#F59E0B" />
+        <path d="M4 8a4 4 0 014-4h24a4 4 0 014 4v4c0 13.255-10.745 24-24 24H8a4 4 0 01-4-4V8z"
+            fill="#4BE4C9" />
+    </symbol>
+</svg>
